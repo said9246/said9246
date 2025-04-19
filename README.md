@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/cd975281b69bdb99dffcd2c850eed77c0ba605bd353513e047cd4eaac428d60b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313032342f302a5050356b39327477685f573035797a462e6a7067)](https://rishavchanda.io)
+[![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/005/734/824/small/programming-code-icon-3d-low-polygonal-abstract-programming-code-symbol-in-hand-coding-or-hacker-background-development-and-software-concept-illustration-vector.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Said Ahmed</h1>
 <p align="left"> Hi, I'm Said Ahmed, a passionate web developer with over 2 years of experience in crafting user-friendly and impactful web applications. I love helping people and collaborating with others to build solutions that make a difference in their lives.
