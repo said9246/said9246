@@ -7,7 +7,8 @@ I enjoy turning ideas into scalable, real-world products that blend performance 
 
 
 <h3 align="center">I’m interested in Mern Engineering</h3>
-<img align="right" alt="Coding" width="4000" src="https://img.freepik.com/premium-vector/3d-illustration-men-women-doing-coding-programming-their-laptops_606402-359.jpg?size=626&ext=jpg&ga=GA1.1.2116175301.1719014400&semt=ais_user">
+<img align="right" alt="Coding" width="400" src="https://www.dignited.com/wp-content/uploads/2022/08/top10lan.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=said9246&label=Profile%20views&color=0e75b6&style=flat" alt="said9246" /> </p>
 
