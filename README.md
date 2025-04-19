@@ -1,6 +1,8 @@
-<div style="background-image: url('https://static.vecteezy.com/system/resources/thumbnails/005/734/824/small/programming-code-icon-3d-low-polygonal-abstract-programming-code-symbol-in-hand-coding-or-hacker-background-development-and-software-concept-illustration-vector.jpg'); background-size: cover; background-position: center; height: 300px; display: flex; align-items: center; justify-content: center; text-align: center;">
-  <h1 style="color: white; font-size: 3em;">Hi 👋, I'm Said Ahmed</h1>
-</div>
+<p align="center">
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/005/734/824/small/programming-code-icon-3d-low-polygonal-abstract-programming-code-symbol-in-hand-coding-or-hacker-background-development-and-software-concept-illustration-vector.jpg" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Said Ahmed</h1>
 
 
 <p align="left"> Hi, I'm Said Ahmed, a passionate web developer with over 2 years of experience in crafting user-friendly and impactful web applications. I love helping people and collaborating with others to build solutions that make a difference in their lives.
