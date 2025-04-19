@@ -1,6 +1,11 @@
 [![MasterHead](https://camo.githubusercontent.com/cd975281b69bdb99dffcd2c850eed77c0ba605bd353513e047cd4eaac428d60b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313032342f302a5050356b39327477685f573035797a462e6a7067)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Said Ahmed</h1>
+<p align="left"> Hi, I'm Said Ahmed, a passionate web developer with over 2 years of experience in crafting user-friendly and impactful web applications. I love helping people and collaborating with others to build solutions that make a difference in their lives.
+ I specialize in building full-stack applications from concept to deployment.
+I enjoy turning ideas into scalable, real-world products that blend performance with great user experience. </p>
+
+
 <h3 align="center">I’m interested in Mern Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/3d-illustration-men-women-doing-coding-programming-their-laptops_606402-359.jpg?size=626&ext=jpg&ga=GA1.1.2116175301.1719014400&semt=ais_user">
 
