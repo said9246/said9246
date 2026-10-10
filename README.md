@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">Hi 👋, I'm Said Ahmed</h1>
 
 <h3 align="center">AI/LLM Engineer | Python Developer | MERN Stack Developer</h3>
@@ -42,4 +42,4 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=said9246&layout=compact&theme=default" alt="Top Languages"/>
 </p>
-```
+
