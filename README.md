@@ -2,6 +2,7 @@
   <img src="https://static.vecteezy.com/system/resources/thumbnails/005/734/824/small/programming-code-icon-3d-low-polygonal-abstract-programming-code-symbol-in-hand-coding-or-hacker-background-development-and-software-concept-illustration-vector.jpg" width="100%" height="200" />
 </p>
 
+
 <h1 align="center">Hi 👋, I'm Said Ahmed</h1>
 
 <br>
@@ -12,6 +13,23 @@
 
 <br>
 <br>
+
+
+
+<img align="right" alt="Coding" width="400" src="https://www.dignited.com/wp-content/uploads/2022/08/top10lan.jpg">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=said9246&label=Profile%20views&color=0e75b6&style=flat" alt="said9246" /> </p>
+
+- 💬 Ask me about **MERN**
+
+- 📫 How to reach me **saidahmed9246@gmail.com**
+
+
+
+
+
+
 - 📫 How to reach me **saidahmed9246@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
