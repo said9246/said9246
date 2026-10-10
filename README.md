@@ -5,16 +5,11 @@
 <h1 align="center">Hi 👋, I'm Said Ahmed</h1>
 
 
-<p align="left">AI/LLM Engineer and Python Developer specializing in LLM applications, RAG pipelines, multi-agent systems, and full-stack development with the MERN stack.</p>
+<!-- <p align="left">AI/LLM Engineer and Python Developer specializing in LLM applications, RAG pipelines, multi-agent systems, and full-stack development with the MERN stack.</p> -->
 
 
-<h3 align="center">I’m interested in Mern Engineering</h3>
-<img align="right" alt="Coding" width="400" src="https://www.dignited.com/wp-content/uploads/2022/08/top10lan.jpg">
+<h3 align="center">AI/LLM Engineer and Python Developer specializing in LLM applications, RAG pipelines, multi-agent systems, and full-stack development with the MERN stack</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=said9246&label=Profile%20views&color=0e75b6&style=flat" alt="said9246" /> </p>
-
-- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **saidahmed9246@gmail.com**
 
